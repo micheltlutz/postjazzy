@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "572fad4da2fef93e941b395ebde09531"
+build_time: [1509113855, 931812000]
+inputs:
+  "/Users/michel/Documents/postjazzy/postjazzy/ViewController.swift": [9223372036, 854775807]
+  "/Users/michel/Documents/postjazzy/postjazzy/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/michel/Documents/postjazzy/postjazzy/Models/Usuario.swift": [9223372036, 854775807]

@@ -1,0 +1,26 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/michel/Documents/postjazzy/postjazzy/Models/Usuario.swift",
+      "line": 30,
+      "symbol": "Usuario.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/michel/Documents/postjazzy/postjazzy/ViewController.swift",
+      "line": 19,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/michel/Documents/postjazzy/postjazzy/ViewController.swift",
+      "line": 24,
+      "symbol": "ViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/michel/Documents/postjazzy"
+}
